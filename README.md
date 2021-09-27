@@ -1,5 +1,3 @@
-# php
-
 //переменные
 $hello = "Welcome ";  
 $name = 'max';
